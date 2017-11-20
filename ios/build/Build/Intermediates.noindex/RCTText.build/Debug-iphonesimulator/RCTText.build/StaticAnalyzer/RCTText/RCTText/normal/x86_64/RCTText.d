@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/bytedance/develop/os_mobile/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/bytedance/develop/os_mobile/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bytedance/develop/os_mobile/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/bytedance/develop/os_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
